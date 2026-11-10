@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/34624577/README.md)
 # Sistema MLOps End-to-End: Predicción de Costes de Reforma Inmobiliaria (CAPV)
 
 Este repositorio contiene una solución MLOps orientada a producción para la predicción automatizada y determinista de costes de reformas en la Comunidad Autónoma del País Vasco (CAPV). El sistema implementa un flujo completo: ingesta de datos, validación estricta con Pydantic V2, limpieza multivariable, seguimiento y registro en MLflow, evaluación con Quality Gate, servicio mediante FastAPI y automatización de CI/CD con GitHub Actions.

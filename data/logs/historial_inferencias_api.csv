@@ -1,0 +1,2 @@
+timestamp,superficie_util_m2,antiguedad_edificio_anos,patologia_estructural_flag,cota_cero_pmr_flag,distancia_vertedero_rcd_km,restriccion_zbe_flag,factor_acopio_calle,indice_costes_eustat,coeficiente_foral,demanda_calefaccion_kwh_m2,densidad_urbana_udalmap,pib_comarca_per_capita,calificacion_energetica_num,zona_climatica_num,coste_predicho_eur
+2026-11-10T08:52:34.833733,105.5,20,0,1,3.0,1,1.1,109.5,1.05,55.0,4200.0,31000.0,3.0,2.0,76874.14
